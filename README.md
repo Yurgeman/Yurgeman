@@ -1,7 +1,7 @@
 ## Hallo! 👋 Nice to see you 😊
 
-![](https://github-readme-stats.vercel.app/api?username=Yurgeman&show_icons=true&theme=algolia&line_height=33)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurgeman&hide=css,java,ruby,starlark,html,objective-c,php,scss,Dockerfile,python,shell,makefile&theme=algolia&line_height=27)
+![](https://github-readme-stats.vercel.app/api?username=Yurgeman&show_icons=true&theme=nord&line_height=33)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurgeman&hide=css,java,ruby,starlark,html,objective-c,php,scss,Dockerfile,python,shell,makefile&theme=nord&line_height=27)
 
 ### My Tech Stack 🍭
 
