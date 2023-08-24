@@ -6,7 +6,11 @@
 ### My Tech Stack 🍭
 
 ![](https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue&logoColor=white) 
-![](https://img.shields.io/badge/-Vuex-42b883?style=for-the-badge&logo=vuex&logoColor=white) 
+![](https://img.shields.io/badge/-Vuex-42b883?style=for-the-badge&logo=vuex&logoColor=white)
+ 
+![](https://img.shields.io/badge/-NUXT-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![](https://img.shields.io/badge/-Vuex-42b883?style=for-the-badge&logo=vuex&logoColor=white)
+
 ![](https://img.shields.io/badge/-Native_Script-65adf1?style=for-the-badge&logo=nativescript&logoColor=white) 
 ![](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
